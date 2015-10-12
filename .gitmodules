@@ -1,3 +1,0 @@
-[submodule "bluez-hcidump"]
-	path = bluez-hcidump
-	url = git://git.kernel.org/pub/scm/bluetooth/bluez-hcidump.git
